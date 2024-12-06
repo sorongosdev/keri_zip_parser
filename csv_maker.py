@@ -28,7 +28,7 @@ def create_csv(root_directory, output_csv):
         csvwriter = csv.writer(csvfile)
         
         # Write header
-        csvwriter.writerow(['증례번호', '공통이슈', 'eeg 채널1', 'eeg 채널2', '특이사항'])
+        csvwriter.writerow(['증례번호', '공통이슈', 'eeg 채널L', 'eeg 채널R', '특이사항'])
         
         # Write case numbers
         for case_number in sorted(case_numbers):
