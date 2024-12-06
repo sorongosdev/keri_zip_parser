@@ -10,9 +10,9 @@ def get_e_folders(root_dir):
     print("e_folders: ", e_folders)
     return e_folders
 
-def validate_eeg_channels(data):
+def validate_eeg_channels(data, zip_file_name, txt_file_name):
     if not data:
-        print("No data found, returning 'X', 'X'")
+        print(f"No data found in {zip_file_name}/{txt_file_name}, returning 'X', 'X'")
         return 'X', 'X'
     
     result_l = 'O'
@@ -23,6 +23,9 @@ def validate_eeg_channels(data):
             result_l = 'X'
         if data[i][1] == data[i-1][1]:
             result_r = 'X'
+    
+    if result_l == 'X' or result_r == 'X':
+        print(f"Issue found in {zip_file_name}/{txt_file_name}/result:{result_l}/{result_r}")
     
     return result_l, result_r
 
@@ -37,7 +40,7 @@ def process_zip_files(root_directory):
             if os.path.isdir(item_path):
                 for file_name in os.listdir(item_path):
                     if file_name.endswith('.zip'):
-                        print('Processing zip file: ', file_name)
+                        # print('Processing zip file: ', file_name)
                         zip_path = os.path.join(item_path, file_name)
                         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                             for txt_file_name in zip_ref.namelist():
@@ -45,7 +48,7 @@ def process_zip_files(root_directory):
                                     with zip_ref.open(txt_file_name) as file:
                                         lines = file.readlines()[1:]  # 두 번째 줄부터 끝까지 읽기
                                         if not lines:
-                                            print(f"No lines found in {txt_file_name}, returning 'X', 'X'")
+                                            print(f"No lines found in {zip_path}/{txt_file_name}, returning 'X', 'X'")
                                             validation_results[item] = ('X', 'X')
                                             continue
                                         data = []
@@ -53,9 +56,9 @@ def process_zip_files(root_directory):
                                             parts = line.decode('utf-8').strip().split('=')[1].strip().split()
                                             for i in range(0, len(parts), 2):
                                                 data.append([parts[i], parts[i+1]])
-                                        result_l, result_r = validate_eeg_channels(data)
+                                        result_l, result_r = validate_eeg_channels(data, zip_path, txt_file_name)
                                         validation_results[item] = (result_l, result_r)
-    print("validation_results: ", validation_results)
+    # print("validation_results: ", validation_results)
     return validation_results
 
 def update_csv_with_validation(input_csv, output_csv, validation_results):
