@@ -1,29 +1,36 @@
 import os
+import zipfile
 
-def rename_zip_files(directory):
+def process_zip_files(directory, output_directory):
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+
     for filename in os.listdir(directory):
         if filename.endswith('.zip'):
-            parts = filename.split('_')
-            if len(parts) > 2:  # 주제와 설명이 모두 포함된 경우
-                case_number = parts[0]
-                topic = parts[1]
-                
-                new_filename = None
-                if topic == '그림':
-                    new_filename = f'1.{filename}'
-                elif topic == '이야기':
-                    new_filename = f'2.{filename}'
-                elif topic == '절차':
-                    new_filename = f'3.{filename}'
-                elif topic == '대화형':
-                    new_filename = f'10.{filename}'
+            zip_path = os.path.join(directory, filename)
+            new_zip_name = f"{os.path.splitext(filename)[0]}_E.zip"
+            new_zip_path = os.path.join(output_directory, new_zip_name)
 
-                if new_filename:
-                    old_path = os.path.join(directory, filename)
-                    new_path = os.path.join(directory, new_filename)
-                    os.rename(old_path, new_path)
-                    print(f'Renamed: {old_path} -> {new_path}')
+            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                txt_files = [f for f in zip_ref.namelist() if f.endswith('.txt')]
+                
+                with zipfile.ZipFile(new_zip_path, 'w') as new_zip:
+                    for txt_file in txt_files:
+                        new_zip.writestr(txt_file, zip_ref.read(txt_file))
+
+                # Create a temporary zip file without the txt files
+                temp_zip_path = zip_path + '.tmp'
+                with zipfile.ZipFile(temp_zip_path, 'w') as temp_zip:
+                    for item in zip_ref.infolist():
+                        if item.filename not in txt_files:
+                            temp_zip.writestr(item, zip_ref.read(item.filename))
+
+            # Replace the original zip file with the temporary zip file
+            os.remove(zip_path)
+            os.rename(temp_zip_path, zip_path)
+            print(f'Processed: {zip_path} -> {new_zip_path}')
 
 # 사용 예시
 directory = './8'
-rename_zip_files(directory)
+output_directory = './8_E'
+process_zip_files(directory, output_directory)
