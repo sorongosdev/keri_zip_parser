@@ -18,13 +18,13 @@ def validate_eeg_channels(data, zip_file_name, txt_file_name):
     result_l = 'O'
     result_r = 'O'
     
-    for i in range(1, len(data)):
-        if data[i][0] == data[i-1][0]:
+    for i in range(2, len(data)):
+        if data[i][0] == data[i-1][0] == data[i-2][0]:
             result_l = 'X'
-            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}: result_l = {result_l}, data[i][0] = {data[i][0]}, data[i-1][0] = {data[i-1][0]}")
-        if data[i][1] == data[i-1][1]:
+            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}")
+        if data[i][1] == data[i-1][1] == data[i-2][1]:
             result_r = 'X'
-            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}: result_r = {result_r}, data[i][1] = {data[i][1]}, data[i-1][1] = {data[i-1][1]}")
+            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}")
         if result_l == 'X' or result_r == 'X':
             break
     
@@ -44,7 +44,6 @@ def process_zip_files(root_directory):
             if os.path.isdir(item_path):
                 for file_name in os.listdir(item_path):
                     if file_name.endswith('.zip'):
-                        print('Processing zip file: ', file_name)
                         zip_path = os.path.join(item_path, file_name)
                         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                             for txt_file_name in zip_ref.namelist():
@@ -52,7 +51,7 @@ def process_zip_files(root_directory):
                                     with zip_ref.open(txt_file_name) as file:
                                         lines = file.readlines()[1:]  # 두 번째 줄부터 끝까지 읽기
                                         if not lines:
-                                            print(f"No lines found in {zip_path}/{txt_file_name}, returning 'X', 'X'")
+                                            print(f"No lines found in {zip_path}/{txt_file_name}")
                                             validation_results[item] = ('X', 'X')
                                             continue
                                         data = []
@@ -60,13 +59,8 @@ def process_zip_files(root_directory):
                                             parts = line.decode('utf-8').strip().split('=')[1].strip().split()
                                             for i in range(0, len(parts), 2):
                                                 data.append([parts[i], parts[i+1]])
-                                            result_l, result_r = validate_eeg_channels(data, zip_path, txt_file_name)
-                                            if result_l == 'X' or result_r == 'X':
-                                                validation_results[item] = (result_l, result_r)
-                                                break
-                                        else:
-                                            validation_results[item] = (result_l, result_r)
-    # print("validation_results: ", validation_results)
+                                        result_l, result_r = validate_eeg_channels(data, zip_path, txt_file_name)
+                                        validation_results[item] = (result_l, result_r)
     return validation_results
 
 def update_csv_with_validation(input_csv, output_csv, validation_results):
