@@ -2,6 +2,26 @@ import os
 import zipfile
 import csv
 
+def read_text_file(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+        print(f"Successfully read file: {file_path}")
+        return lines
+    except Exception as e:
+        print(f"Error reading file {file_path}: {e}")
+        return []
+
+def parse_data(lines):
+    data = []
+    for line in lines:
+        if '=' in line:
+            parts = line.split('=')
+            values = parts[1].strip().split()
+            data.append([float(v) for v in values])
+    print(f"Parsed data: {data}")
+    return data
+
 def get_e_folders(root_dir):
     e_folders = []
     for folder_name in os.listdir(root_dir):
@@ -18,18 +38,16 @@ def validate_eeg_channels(data, zip_file_name, txt_file_name):
     result_l = 'O'
     result_r = 'O'
     
+    # Existing check for three consecutive same values
     for i in range(2, len(data)):
         if data[i][0] == data[i-1][0] == data[i-2][0]:
             result_l = 'X'
-            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}")
+            print(f"Left Channel Issue in {zip_file_name}/{txt_file_name} at line {i+1}")
         if data[i][1] == data[i-1][1] == data[i-2][1]:
             result_r = 'X'
-            print(f"Issue found in {zip_file_name}/{txt_file_name} at line {i+1}")
+            print(f"Right Channel Issue in {zip_file_name}/{txt_file_name} at line {i+1}")
         if result_l == 'X' or result_r == 'X':
             break
-    
-    #if result_l == 'X' or result_r == 'X':
-    #   print(f"Overall issue found in {zip_file_name}/{txt_file_name}: result_l = {result_l}, result_r = {result_r}, data = {data}")
     
     return result_l, result_r
 
@@ -52,7 +70,7 @@ def process_zip_files(root_directory):
                                         lines = file.readlines()[1:]  # 두 번째 줄부터 끝까지 읽기
                                         if not lines:
                                             print(f"No lines found in {zip_path}/{txt_file_name}")
-                                            validation_results[item] = ('X', 'X')
+                                            validation_results[item] = ('X', 'X')                                           
                                             continue
                                         data = []
                                         for line in lines:
