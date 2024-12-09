@@ -12,3 +12,6 @@
 
 # write_memo_eeg.py
 - eeg 관련 특이사항 기입
+
+# eeg_memo_hn.py
+- eeg 헤드셋 무 기입
