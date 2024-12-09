@@ -1,23 +1,23 @@
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_5_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_5_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_6_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_7_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_8_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_9_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_11_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_11_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_12_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_13_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\10.20034(1)_대화형_일상_발화_E.zip/20034(1)_대화형_일상_발화_15_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_1_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_2_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_3_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_4_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_5_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_6_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_7_EEG.txt at line 3
+Right Channel Issue in ./240901_240930_E\20034\2.20034(1)_이야기_말하기_E.zip/20034(1)_이야기_말하기_8_EEG.txt at line 3
 No lines found in ./240901_240930_E\20034\3.20034(1)_절차_설명하기_E.zip/20034(1)_절차_설명하기_1_EEG.txt
 No lines found in ./240901_240930_E\20034\3.20034(1)_절차_설명하기_E.zip/20034(1)_절차_설명하기_2_EEG.txt
 No lines found in ./241001_241031_E\60126\1.60126(1)_그림_설명하기_E.zip/60126(1)_그림_설명하기_1_EEG.txt
@@ -215,86 +215,86 @@ No lines found in ./241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/6
 No lines found in ./241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_8_EEG.txt
 No lines found in ./241001_241031_E\60133\3.60133(1)_절차_설명하기_E.zip/60133(1)_절차_설명하기_1_EEG.txt
 No lines found in ./241001_241031_E\60133\3.60133(1)_절차_설명하기_E.zip/60133(1)_절차_설명하기_2_EEG.txt
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_9_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_9_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_3_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_4_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\1.60134(1)_그림_설명하기_E.zip/60134(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_1_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_2_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_3_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_3_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_4_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_5_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_6_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_7_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_8_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_9_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_10_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_11_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_12_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_13_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_14_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_15_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_16_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_17_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_18_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_19_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_20_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_21_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_22_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_23_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_24_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_25_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\10.60134(1)_대화형_일상_발화_E.zip/60134(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_1_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_2_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_3_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_4_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_5_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_6_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_7_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_8_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_9_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\2.60134(1)_이야기_말하기_E.zip/60134(1)_이야기_말하기_9_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241001_241031_E\60134\3.60134(1)_절차_설명하기_E.zip/60134(1)_절차_설명하기_2_EEG.txt at line 3
 No lines found in ./241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_1_EEG.txt
 No lines found in ./241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_2_EEG.txt
 No lines found in ./241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_3_EEG.txt
@@ -740,291 +740,291 @@ No lines found in ./241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/6
 No lines found in ./241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_8_EEG.txt
 No lines found in ./241101_241130_E\60162\3.60162(1)_절차_설명하기_E.zip/60162(1)_절차_설명하기_1_EEG.txt
 No lines found in ./241101_241130_E\60162\3.60162(1)_절차_설명하기_E.zip/60162(1)_절차_설명하기_2_EEG.txt
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\3.60172(1)_절차_설명하기_E.zip/60172(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60172\3.60172(1)_절차_설명하기_E.zip/60172(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\3.60173(1)_절차_설명하기_E.zip/60173(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60173\3.60173(1)_절차_설명하기_E.zip/60173(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\3.60174(1)_절차_설명하기_E.zip/60174(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60174\3.60174(1)_절차_설명하기_E.zip/60174(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\3.60175(1)_절차_설명하기_E.zip/60175(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60175\3.60175(1)_절차_설명하기_E.zip/60175(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_3_EEG.txt at line 41
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_9_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_10_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_11_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_12_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_13_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_14_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_15_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_16_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_17_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_18_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_19_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_20_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_21_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_22_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_23_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_24_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_25_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_3_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_4_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_5_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_6_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_7_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_8_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\3.60176(1)_절차_설명하기_E.zip/60176(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241101_241130_E\60176\3.60176(1)_절차_설명하기_E.zip/60176(1)_절차_설명하기_2_EEG.txt at line 3
-Issue found in ./241201_241204_E\60183\1.60183(1)_그림_설명하기_E.zip/60183(1)_그림_설명하기_2_EEG.txt at line 8545
-Issue found in ./241201_241204_E\60183\1.60183(1)_그림_설명하기_E.zip/60183(1)_그림_설명하기_4_EEG.txt at line 368
-Issue found in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_1_EEG.txt at line 501
-Issue found in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_2_EEG.txt at line 1307
-Issue found in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_3_EEG.txt at line 3
-Issue found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_1_EEG.txt at line 3
-Issue found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_2_EEG.txt at line 3
-Issue found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_3_EEG.txt at line 117
+Left Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\1.60164(1)_그림_설명하기_E.zip/60164(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_5_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_6_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_7_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_8_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_9_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_10_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_11_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_12_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_13_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_14_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_15_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_16_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_17_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_18_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_19_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_20_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_21_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_22_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_23_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_24_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_25_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\10.60164(1)_대화형_일상_발화_E.zip/60164(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_5_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_6_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_7_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_8_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\2.60164(1)_이야기_말하기_E.zip/60164(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60164\3.60164(1)_절차_설명하기_E.zip/60164(1)_절차_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\1.60172(1)_그림_설명하기_E.zip/60172(1)_그림_설명하기_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_5_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_6_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_7_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_8_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_9_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_10_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_11_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_12_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_13_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_14_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_15_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_16_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_17_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_18_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_19_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_20_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_21_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_22_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_23_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_24_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\10.60172(1)_대화형_일상_발화_E.zip/60172(1)_대화형_일상_발화_25_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_2_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_3_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_4_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_5_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_6_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_7_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\2.60172(1)_이야기_말하기_E.zip/60172(1)_이야기_말하기_8_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\3.60172(1)_절차_설명하기_E.zip/60172(1)_절차_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241101_241130_E\60172\3.60172(1)_절차_설명하기_E.zip/60172(1)_절차_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\1.60173(1)_그림_설명하기_E.zip/60173(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\10.60173(1)_대화형_일상_발화_E.zip/60173(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\2.60173(1)_이야기_말하기_E.zip/60173(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\3.60173(1)_절차_설명하기_E.zip/60173(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60173\3.60173(1)_절차_설명하기_E.zip/60173(1)_절차_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\1.60174(1)_그림_설명하기_E.zip/60174(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\10.60174(1)_대화형_일상_발화_E.zip/60174(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\2.60174(1)_이야기_말하기_E.zip/60174(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\3.60174(1)_절차_설명하기_E.zip/60174(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60174\3.60174(1)_절차_설명하기_E.zip/60174(1)_절차_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\1.60175(1)_그림_설명하기_E.zip/60175(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\10.60175(1)_대화형_일상_발화_E.zip/60175(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\2.60175(1)_이야기_말하기_E.zip/60175(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\3.60175(1)_절차_설명하기_E.zip/60175(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60175\3.60175(1)_절차_설명하기_E.zip/60175(1)_절차_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\1.60176(1)_그림_설명하기_E.zip/60176(1)_그림_설명하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_3_EEG.txt at line 41
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_9_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_10_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_11_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_12_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_13_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_14_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_15_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_16_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_17_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_18_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_19_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_20_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_21_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_22_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_23_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_24_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\10.60176(1)_대화형_일상_발화_E.zip/60176(1)_대화형_일상_발화_25_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_2_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_3_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_4_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_5_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_6_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_7_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\2.60176(1)_이야기_말하기_E.zip/60176(1)_이야기_말하기_8_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\3.60176(1)_절차_설명하기_E.zip/60176(1)_절차_설명하기_1_EEG.txt at line 3
+Left Channel Issue in ./241101_241130_E\60176\3.60176(1)_절차_설명하기_E.zip/60176(1)_절차_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\1.60183(1)_그림_설명하기_E.zip/60183(1)_그림_설명하기_2_EEG.txt at line 8545
+Right Channel Issue in ./241201_241204_E\60183\1.60183(1)_그림_설명하기_E.zip/60183(1)_그림_설명하기_4_EEG.txt at line 368
+Right Channel Issue in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_1_EEG.txt at line 501
+Right Channel Issue in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_2_EEG.txt at line 1307
+Right Channel Issue in ./241201_241204_E\60183\10.60183(1)_대화형_일상_발화_E.zip/60183(1)_대화형_일상_발화_3_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_1_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_2_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_3_EEG.txt at line 117
 No lines found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_4_EEG.txt
 No lines found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_5_EEG.txt
 No lines found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_6_EEG.txt
 No lines found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_7_EEG.txt
 No lines found in ./241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_8_EEG.txt
-Issue found in ./241201_241204_E\60183\3.60183(1)_절차_설명하기_E.zip/60183(1)_절차_설명하기_1_EEG.txt at line 3
-Issue found in ./241201_241204_E\60183\3.60183(1)_절차_설명하기_E.zip/60183(1)_절차_설명하기_2_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\3.60183(1)_절차_설명하기_E.zip/60183(1)_절차_설명하기_1_EEG.txt at line 3
+Right Channel Issue in ./241201_241204_E\60183\3.60183(1)_절차_설명하기_E.zip/60183(1)_절차_설명하기_2_EEG.txt at line 3
