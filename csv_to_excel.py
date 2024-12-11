@@ -6,6 +6,6 @@ def csv_to_excel(csv_file_path, excel_file_path):
     df.to_excel(excel_file_path, index=False)
 
 # 사용 예시
-csv_file_path = 'eeg_memo_custom.csv'
+csv_file_path = 'eeg_memo_custom_2.csv'
 excel_file_path = 'eeg_memo_custom_2excel.xlsx'
 csv_to_excel(csv_file_path, excel_file_path)
