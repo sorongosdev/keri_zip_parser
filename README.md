@@ -15,3 +15,15 @@
 
 # eeg_memo_hn.py
 - eeg 헤드셋 무 기입
+
+# csv_to_excel.py
+- csv를 xlsx로 변환
+
+# excel_to_csv.py
+- xlsx를 csv로 변환
+
+# delete_pic2_wav.py
+- delete_pic2 폴더에서 특정 증례번호의 그림설명하기2 장면 삭제
+
+# delete_pic2_eeg.py
+- delete_pic2_eeg 폴더에서 특정 증례번호의 그림설명하기2의 eeg 파일 삭제
