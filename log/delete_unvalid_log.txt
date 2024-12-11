@@ -1,0 +1,1021 @@
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\10.60131(1)_대화형_일상_발화_E.zip/60131(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\2.60131(1)_이야기_말하기_E.zip/60131(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\3.60131(1)_절차_설명하기_E.zip/60131(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60131\3.60131(1)_절차_설명하기_E.zip/60131(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60131\temp_unzip\60131(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\1.60133(1)_그림_설명하기_E.zip/60133(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\1.60133(1)_그림_설명하기_E.zip/60133(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\1.60133(1)_그림_설명하기_E.zip/60133(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\1.60133(1)_그림_설명하기_E.zip/60133(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\10.60133(1)_대화형_일상_발화_E.zip/60133(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\2.60133(1)_이야기_말하기_E.zip/60133(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\3.60133(1)_절차_설명하기_E.zip/60133(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60133\3.60133(1)_절차_설명하기_E.zip/60133(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60133\temp_unzip\60133(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\1.60137(1)_그림_설명하기_E.zip/60137(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\10.60137(1)_대화형_일상_발화_E.zip/60137(1)_대화형_일상_발화_26_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_대화형_일상_발화_26_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\2.60137(1)_이야기_말하기_E.zip/60137(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\3.60137(1)_절차_설명하기_E.zip/60137(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60137\3.60137(1)_절차_설명하기_E.zip/60137(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60137\temp_unzip\60137(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\1.60138(1)_그림_설명하기_E.zip/60138(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\1.60138(1)_그림_설명하기_E.zip/60138(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\1.60138(1)_그림_설명하기_E.zip/60138(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\1.60138(1)_그림_설명하기_E.zip/60138(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_26_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_26_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\10.60138(1)_대화형_일상_발화_E.zip/60138(1)_대화형_일상_발화_27_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_대화형_일상_발화_27_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\2.60138(1)_이야기_말하기_E.zip/60138(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\3.60138(1)_절차_설명하기_E.zip/60138(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60138\3.60138(1)_절차_설명하기_E.zip/60138(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60138\temp_unzip\60138(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\1.60140(1)_그림_설명하기_E.zip/60140(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\1.60140(1)_그림_설명하기_E.zip/60140(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\1.60140(1)_그림_설명하기_E.zip/60140(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\1.60140(1)_그림_설명하기_E.zip/60140(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\1.60140(1)_그림_설명하기_E.zip/60140(1)_그림_설명하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_그림_설명하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\10.60140(1)_대화형_일상_발화_E.zip/60140(1)_대화형_일상_발화_26_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_대화형_일상_발화_26_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\2.60140(1)_이야기_말하기_E.zip/60140(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\3.60140(1)_절차_설명하기_E.zip/60140(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60140\3.60140(1)_절차_설명하기_E.zip/60140(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60140\temp_unzip\60140(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\1.60141(1)_그림_설명하기_E.zip/60141(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\1.60141(1)_그림_설명하기_E.zip/60141(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\1.60141(1)_그림_설명하기_E.zip/60141(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\1.60141(1)_그림_설명하기_E.zip/60141(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\10.60141(1)_대화형_일상_발화_E.zip/60141(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\2.60141(1)_이야기_말하기_E.zip/60141(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\3.60141(1)_절차_설명하기_E.zip/60141(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60141\3.60141(1)_절차_설명하기_E.zip/60141(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60141\temp_unzip\60141(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\1.60142(1)_그림_설명하기_E.zip/60142(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\1.60142(1)_그림_설명하기_E.zip/60142(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\1.60142(1)_그림_설명하기_E.zip/60142(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\1.60142(1)_그림_설명하기_E.zip/60142(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\10.60142(1)_대화형_일상_발화_E.zip/60142(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\2.60142(1)_이야기_말하기_E.zip/60142(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\3.60142(1)_절차_설명하기_E.zip/60142(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60142\3.60142(1)_절차_설명하기_E.zip/60142(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60142\temp_unzip\60142(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\1.60143(1)_그림_설명하기_E.zip/60143(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\1.60143(1)_그림_설명하기_E.zip/60143(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\1.60143(1)_그림_설명하기_E.zip/60143(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\1.60143(1)_그림_설명하기_E.zip/60143(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\10.60143(1)_대화형_일상_발화_E.zip/60143(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\2.60143(1)_이야기_말하기_E.zip/60143(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\3.60143(1)_절차_설명하기_E.zip/60143(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60143\3.60143(1)_절차_설명하기_E.zip/60143(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60143\temp_unzip\60143(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\1.60144(1)_그림_설명하기_E.zip/60144(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\1.60144(1)_그림_설명하기_E.zip/60144(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\1.60144(1)_그림_설명하기_E.zip/60144(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\1.60144(1)_그림_설명하기_E.zip/60144(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\10.60144(1)_대화형_일상_발화_E.zip/60144(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\2.60144(1)_이야기_말하기_E.zip/60144(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\3.60144(1)_절차_설명하기_E.zip/60144(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241001_241031_E\60144\3.60144(1)_절차_설명하기_E.zip/60144(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241001_241031_E\60144\temp_unzip\60144(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip/60156(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip/60156(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip/60156(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip/60156(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip/60156(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_19_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_20_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: File name in directory '60156(1)_대화형_일상_발화_20_EEG.txt' and header b'60156(1)_\xeb\x8c\x80\xed\x99\x94\xed\x98\x95_\xec\x9d\xbc\xec\x83\x81_\xeb\xb0\x9c\xed\x99\x94_20_EEG.69 ' differ.
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_20_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_21_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: Bad magic number for file header
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_21_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_22_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: Bad magic number for file header
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_22_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_23_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: Bad magic number for file header
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_23_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_24_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: Bad magic number for file header
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_24_EEG.txt
+BadZipFile error for 60156(1)_대화형_일상_발화_25_EEG.txt in ./delete_unvalid\241101_241130_E\60156\10.60156(1)_대화형_일상_발화_E.zip: Bad magic number for file header
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60156\temp_unzip\60156(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\1.60159(1)_그림_설명하기_E.zip/60159(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\1.60159(1)_그림_설명하기_E.zip/60159(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\1.60159(1)_그림_설명하기_E.zip/60159(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\1.60159(1)_그림_설명하기_E.zip/60159(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\10.60159(1)_대화형_일상_발화_E.zip/60159(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\2.60159(1)_이야기_말하기_E.zip/60159(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\3.60159(1)_절차_설명하기_E.zip/60159(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60159\3.60159(1)_절차_설명하기_E.zip/60159(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60159\temp_unzip\60159(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\1.60160(1)_그림_설명하기_E.zip/60160(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\1.60160(1)_그림_설명하기_E.zip/60160(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\1.60160(1)_그림_설명하기_E.zip/60160(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\1.60160(1)_그림_설명하기_E.zip/60160(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\10.60160(1)_대화형_일상_발화_E.zip/60160(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\2.60160(1)_이야기_말하기_E.zip/60160(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\3.60160(1)_절차_설명하기_E.zip/60160(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60160\3.60160(1)_절차_설명하기_E.zip/60160(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60160\temp_unzip\60160(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\1.60161(1)_그림_설명하기_E.zip/60161(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\1.60161(1)_그림_설명하기_E.zip/60161(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\1.60161(1)_그림_설명하기_E.zip/60161(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\1.60161(1)_그림_설명하기_E.zip/60161(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\1.60161(1)_그림_설명하기_E.zip/60161(1)_그림_설명하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_그림_설명하기_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\10.60161(1)_대화형_일상_발화_E.zip/60161(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\2.60161(1)_이야기_말하기_E.zip/60161(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\3.60161(1)_절차_설명하기_E.zip/60161(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60161\3.60161(1)_절차_설명하기_E.zip/60161(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60161\temp_unzip\60161(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\1.60162(1)_그림_설명하기_E.zip/60162(1)_그림_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_그림_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\1.60162(1)_그림_설명하기_E.zip/60162(1)_그림_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_그림_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\1.60162(1)_그림_설명하기_E.zip/60162(1)_그림_설명하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_그림_설명하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\1.60162(1)_그림_설명하기_E.zip/60162(1)_그림_설명하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_그림_설명하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_9_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_9_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_10_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_10_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_11_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_11_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_12_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_12_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_13_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_13_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_14_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_14_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_15_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_15_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_16_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_16_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_17_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_17_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_18_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_18_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_19_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_19_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_20_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_20_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_21_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_21_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_22_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_22_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_23_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_23_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_24_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_24_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\10.60162(1)_대화형_일상_발화_E.zip/60162(1)_대화형_일상_발화_25_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_대화형_일상_발화_25_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_2_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_3_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_3_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\2.60162(1)_이야기_말하기_E.zip/60162(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_이야기_말하기_8_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\3.60162(1)_절차_설명하기_E.zip/60162(1)_절차_설명하기_1_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_절차_설명하기_1_EEG.txt
+No lines found in ./delete_unvalid\241101_241130_E\60162\3.60162(1)_절차_설명하기_E.zip/60162(1)_절차_설명하기_2_EEG.txt
+Deleted invalid file: ./delete_unvalid\241101_241130_E\60162\temp_unzip\60162(1)_절차_설명하기_2_EEG.txt
+No lines found in ./delete_unvalid\241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_4_EEG.txt
+Deleted invalid file: ./delete_unvalid\241201_241204_E\60183\temp_unzip\60183(1)_이야기_말하기_4_EEG.txt
+No lines found in ./delete_unvalid\241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_5_EEG.txt
+Deleted invalid file: ./delete_unvalid\241201_241204_E\60183\temp_unzip\60183(1)_이야기_말하기_5_EEG.txt
+No lines found in ./delete_unvalid\241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_6_EEG.txt
+Deleted invalid file: ./delete_unvalid\241201_241204_E\60183\temp_unzip\60183(1)_이야기_말하기_6_EEG.txt
+No lines found in ./delete_unvalid\241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_7_EEG.txt
+Deleted invalid file: ./delete_unvalid\241201_241204_E\60183\temp_unzip\60183(1)_이야기_말하기_7_EEG.txt
+No lines found in ./delete_unvalid\241201_241204_E\60183\2.60183(1)_이야기_말하기_E.zip/60183(1)_이야기_말하기_8_EEG.txt
+Deleted invalid file: ./delete_unvalid\241201_241204_E\60183\temp_unzip\60183(1)_이야기_말하기_8_EEG.txt
