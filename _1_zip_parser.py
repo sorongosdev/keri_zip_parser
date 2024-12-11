@@ -83,8 +83,8 @@ def process_zip_files(directory, output_directory):
             print(f'Moved: {new_zip_path} -> {final_zip_path}')
 
 # 사용 예시
-directories = ['./8', './8_E']
+directories = ['./241203_241211', './241203_241211_E']
 for directory in directories:
     rename_zip_files(directory)
-    output_directory = './8_E'
+    output_directory = './241203_241211_E'
     process_zip_files(directory, output_directory)

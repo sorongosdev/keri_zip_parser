@@ -1,43 +1,9 @@
 import os
-import zipfile
 import csv
-
-def read_text_file(file_path):
-    try:
-        with open(file_path, 'r') as file:
-            lines = file.readlines()
-        print(f"Successfully read file: {file_path}")
-        return lines
-    except Exception as e:
-        print(f"Error reading file {file_path}: {e}")
-        return []
-
-def parse_data(lines):
-    data = []
-    for line in lines:
-        if '=' in line:
-            parts = line.split('=')
-            values = parts[1].strip().split()
-            data.append([float(v) for v in values])
-    print(f"Parsed data: {data}")
-    return data
-
-def get_e_folders(root_dir):
-    e_folders = []
-    for folder_name in os.listdir(root_dir):
-        if folder_name.endswith('_E') and os.path.isdir(os.path.join(root_dir, folder_name)):
-            e_folders.append(folder_name)
-    print("e_folders: ", e_folders)
-    return e_folders
+import zipfile
 
 def validate_eeg_channels(data, zip_file_name, txt_file_name):
-    if not data:
-        print(f"No data found in {zip_file_name}/{txt_file_name}, returning 'X', 'X'")
-        return 'X', 'X'
-    
-    result_l = 'O'
-    result_r = 'O'
-    
+    result_l, result_r = 'O', 'O'
     # Existing check for three consecutive same values
     for i in range(2, len(data)):
         if data[i][0] == data[i-1][0] == data[i-2][0]:
@@ -53,12 +19,12 @@ def validate_eeg_channels(data, zip_file_name, txt_file_name):
 
 def process_zip_files(root_directory):
     validation_results = {}
-    e_folders = get_e_folders(root_directory)
+    target_folder = '241203_241211_E'
+    target_folder_path = os.path.join(root_directory, target_folder)
     
-    for case_folder_name in e_folders:
-        case_folder_path = os.path.join(root_directory, case_folder_name)
-        for item in os.listdir(case_folder_path):
-            item_path = os.path.join(case_folder_path, item)
+    if os.path.isdir(target_folder_path):
+        for item in os.listdir(target_folder_path):
+            item_path = os.path.join(target_folder_path, item)
             if os.path.isdir(item_path):
                 for file_name in os.listdir(item_path):
                     if file_name.endswith('.zip'):
@@ -88,6 +54,7 @@ def update_csv_with_validation(input_csv, output_csv, validation_results):
             csvwriter = csv.writer(infile)
             csvwriter.writerow(['Case Number', 'Other Column', 'EEG Channel L', 'EEG Channel R'])
 
+    existing_cases = set()
     with open(input_csv, 'r', newline='', encoding='utf-8') as infile, \
          open(output_csv, 'w', newline='', encoding='utf-8') as outfile:
         csvreader = csv.reader(infile)
@@ -100,15 +67,18 @@ def update_csv_with_validation(input_csv, output_csv, validation_results):
             header = ['Case Number', 'Other Column', 'EEG Channel L', 'EEG Channel R']
         csvwriter.writerow(header)
         
-        # Update rows
+        # Update rows and track existing cases
         for row in csvreader:
             case_number = row[0]
+            existing_cases.add(case_number)
             if case_number in validation_results:
+                # Ensure the row has at least 4 elements
+                while len(row) < 4:
+                    row.append('')
                 row[2], row[3] = validation_results[case_number]
             csvwriter.writerow(row)
         
         # Add any missing cases from validation_results
-        existing_cases = {row[0] for row in csvreader}
         for case_number, (result_l, result_r) in validation_results.items():
             if case_number not in existing_cases:
                 csvwriter.writerow([case_number, '', result_l, result_r])
@@ -116,6 +86,6 @@ def update_csv_with_validation(input_csv, output_csv, validation_results):
 # 사용 예시
 root_directory = './'
 validation_results = process_zip_files(root_directory)
-input_csv = 'common_issue_pic2_output.csv'
-output_csv = 'validate_eeg_output.csv'
+input_csv = 'output_csv_xlsx/output_241203_241211.csv'
+output_csv = 'output_csv_xlsx/validate_eeg_output_241203_241211.csv'
 update_csv_with_validation(input_csv, output_csv, validation_results)
